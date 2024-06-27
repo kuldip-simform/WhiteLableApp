@@ -76,7 +76,7 @@ android {
 
     namespace "com.whitelabelapp"
     defaultConfig {
-        applicationId "com.whitelabelapp"
+        applicationId "com.simform.whitelabel.app2"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
